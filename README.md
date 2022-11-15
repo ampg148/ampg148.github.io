@@ -1,4 +1,6 @@
 # Taylor Swift Eras
+### **Who is Taylor Swift?**
+##### *Taylor Swift is an American snger-songwriter who created over 200+ songs and 12 albums (Including the Taylor's version (Fearless/Red)). She was born in 1989 and had her first album (debut) in year 2006 (US and Canada) and internationally in year 2008.*
 ### What is an Era?
 ##### *A phase or a time in our lives where we experience different kind of things. Times where we feel happy, sad, hearbroken, glad, proud, etc.*
 
@@ -14,3 +16,5 @@
 9. [Evermore](https://youtube.com/playlist?list=PLINj2JJM1jxP3taLik1NA6CFs5L-TD7uw)
 10. [Midnights](https://youtube.com/playlist?list=PLINj2JJM1jxP5aYiX47uBCRu9g8JItDWp)
 
+## **Reference:**
+[Taylor Swift](https://en.wikipedia.org/wiki/Taylor_Swift)
