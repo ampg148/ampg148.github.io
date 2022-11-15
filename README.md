@@ -9,7 +9,7 @@
 1. [Taylor Swift (Debut)](https://open.spotify.com/album/5eyZZoQEFQWRHkV2xgAeBw?si=U2nHRIQmQpK_bijv7AEpxw)
 >![](Fearless.png) 
 2. [Fearless](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH?si=bE-oG8k1R1G9XxWlf54Q8w)
->![](idk.png) 
+>![]() 
 3. [Speak Now](https://open.spotify.com/album/6Ar2o9KCqcyYF9J0aQP3au?si=vpM3fWPiTB20g_oYtQHIbw)
 >![](Red.png) 
 4. [Red](https://open.spotify.com/album/1KVKqWeRuXsJDLTW0VuD29?si=kl-48DiOR4ygtwiWChb4ag)
@@ -23,7 +23,7 @@
 8. [Folklore](https://youtube.com/playlist?list=PLINj2JJM1jxNNBnGb3WvHmcyCyfl0VlJX)
 >![](Evermore.png) 
 9. [Evermore](https://youtube.com/playlist?list=PLINj2JJM1jxP3taLik1NA6CFs5L-TD7uw)
->![](Lover.png) 
+>![](Midnights.jiff) 
 10. [Midnights](https://youtube.com/playlist?list=PLINj2JJM1jxP5aYiX47uBCRu9g8JItDWp)
 
 ## **Reference:**
