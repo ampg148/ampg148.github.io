@@ -23,7 +23,7 @@
 8. [Folklore](https://youtube.com/playlist?list=PLINj2JJM1jxNNBnGb3WvHmcyCyfl0VlJX)
 >![](Evermore.png) 
 9. [Evermore](https://youtube.com/playlist?list=PLINj2JJM1jxP3taLik1NA6CFs5L-TD7uw)
->![](Midnights.jiff) 
+>![](Midnights.jfif) 
 10. [Midnights](https://youtube.com/playlist?list=PLINj2JJM1jxP5aYiX47uBCRu9g8JItDWp)
 
 ## **Reference:**
