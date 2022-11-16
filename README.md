@@ -33,8 +33,8 @@
 - [Red (Taylor's Version)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9?si=hfzEj295TBWDbFPMcnF0DQ)
 
 ## **Reference:**
-[Taylor Swift](https://en.wikipedia.org/wiki/Taylor_Swift)
-[YouTube](https://www.youtube.com/)
-[Spotify](https://open.spotify.com/)
+- [Taylor Swift](https://en.wikipedia.org/wiki/Taylor_Swift)
+- [YouTube](https://www.youtube.com/)
+- [Spotify](https://open.spotify.com/)
 
 	
