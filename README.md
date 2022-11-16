@@ -5,7 +5,7 @@
 > ##### *A phase or a time in our lives where we experience different kind of things. Times where we feel happy, sad, hearbroken, glad, proud, etc.*
 
 ### Taylor Swift's Ten Eras
->![](Debut.png) 
+>![alt text](Debut.png) 
 1. [Taylor Swift (Debut)](https://open.spotify.com/album/5eyZZoQEFQWRHkV2xgAeBw?si=U2nHRIQmQpK_bijv7AEpxw)
 >![alt text](Fearless.png) 
 2. [Fearless](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH?si=bE-oG8k1R1G9XxWlf54Q8w)
@@ -15,21 +15,21 @@
 4. [Red](https://open.spotify.com/album/1KVKqWeRuXsJDLTW0VuD29?si=kl-48DiOR4ygtwiWChb4ag)
 >![alt text](1989.png) 
 5. [1989](https://youtube.com/playlist?list=OLAK5uy_lglIKPOFCG5X9_Rf4Hxsmmh9GEeHL94Jo)
->![](Reputation.png) 
+>![alt text](Reputation.png) 
 6. [Reputation](https://youtube.com/playlist?list=OLAK5uy_kyYsExXByLh2281MMfi0QvZJF5epEUxbk)
->![](Lover.png) 
+>![alt text](Lover.png) 
 7. [Lover](https://youtube.com/playlist?list=PLINj2JJM1jxObDqF8VXonjQhrBnnMrtGH)
->![](Folklore.png) 
+>![alt text](Folklore.png) 
 8. [Folklore](https://youtube.com/playlist?list=PLINj2JJM1jxNNBnGb3WvHmcyCyfl0VlJX)
->![](Evermore.png) 
+>![alt text](Evermore.png) 
 9. [Evermore](https://youtube.com/playlist?list=PLINj2JJM1jxP3taLik1NA6CFs5L-TD7uw)
->![](Midnights.jfif) 
+>![alt text](Midnights.jfif) 
 10. [Midnights](https://youtube.com/playlist?list=PLINj2JJM1jxP5aYiX47uBCRu9g8JItDWp)
 
 ### **Taylor's Version Album**
->![](FearlessTV.png)
+>![alt text](FearlessTV.png)
 - [Fearless (Taylor's Version)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH?si=LNe6_RX9QbmQhp-UP1YR8A)
->![](RedTV.png)
+>![alt text](RedTV.png)
 - [Red (Taylor's Version)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9?si=hfzEj295TBWDbFPMcnF0DQ)
 
 ## **Reference:**
