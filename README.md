@@ -26,5 +26,11 @@
 >![](Midnights.jfif) 
 10. [Midnights](https://youtube.com/playlist?list=PLINj2JJM1jxP5aYiX47uBCRu9g8JItDWp)
 
+### **Taylor's Version Album**
+>![](Lover.png)
+- [Fearless (Taylor's Version)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH?si=LNe6_RX9QbmQhp-UP1YR8A)
+>![](Lover.png)
+- [Red (Taylor's Version)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9?si=hfzEj295TBWDbFPMcnF0DQ)
+
 ## **Reference:**
 [Taylor Swift](https://en.wikipedia.org/wiki/Taylor_Swift)
