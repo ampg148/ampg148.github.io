@@ -39,3 +39,6 @@
 - [Taylor Swift](https://en.wikipedia.org/wiki/Taylor_Swift)
 - [YouTube](https://www.youtube.com/)
 - [Spotify](https://open.spotify.com/)
+
+### Bejeweled Track on Spotify
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3qoftcUZaUOncvIYjFSPdE?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
